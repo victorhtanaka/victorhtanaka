@@ -1,7 +1,6 @@
 <h1 align="center">Oi, meu nome é Victor</h1>
 <h3 align="center">Estudante e desenvolvedor de software.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
